@@ -9,5 +9,10 @@ I built this one evening whilst I was recording the BLE traffic between the app 
 
 See instructions at [bluetooth.com](https://www.bluetooth.com/blog/a-new-way-to-debug-iosbluetooth-applications/?ref=guide.billsnyder.me)
 
+
+## License
+
+![GitHub License](https://img.shields.io/github/license/fdoyon/bledroom)
+
 # Support
 None, just fork it.
